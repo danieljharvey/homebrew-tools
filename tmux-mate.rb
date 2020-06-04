@@ -1,4 +1,4 @@
-class NixMate < Formula
+class TmuxMate < Formula
   desc "Arranging squares with programs running in them made easy"
   homepage "https://github.com/danieljharvey/tmux-mate"
   url "https://github.com/danieljharvey/tmux-mate/releases/download/v0.0.1/tmux-mate-v0.0.1-osx.tar.gz"
