@@ -4,6 +4,8 @@ class TmuxMate < Formula
   url "https://github.com/danieljharvey/tmux-mate/releases/download/v0.0.2/tmux-mate-v0.0.2-osx.tar.gz"
   sha256 "f93d5c3527c1cdb1a7217b18f8bba6318cbecf361cfea51aa5163904f6bc3a66"
 
+  depends_on "tmux"
+
   bottle :unneeded
 
   def install
