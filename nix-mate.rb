@@ -1,8 +1,8 @@
 class NixMate < Formula
   desc "Nix Shells made easy"
   homepage "https://github.com/danieljharvey/nix-mate"
-  url "https://github.com/danieljharvey/nix-mate/releases/download/v0.0.4/nix-mate-v0.0.4-osx.tar.gz"
-  sha256 "62203218fa3c989094e1a59f579647d265d7168f8d1ca48ac24dd3ee58cb3a46"
+  url "https://github.com/danieljharvey/nix-mate/releases/download/v0.0.9/nix-mate-0.0.9-osx"
+  sha256 "1d2fad7b098d2c10c9617441f30c88cfb08bc1c7553cec97dcf283aa3a5017ac"
 
   bottle :unneeded
 
