@@ -7,6 +7,7 @@ class NixMate < Formula
   bottle :unneeded
 
   def install
+    system "mv", "nix-mate-0.0.9-osx", "nix-mate"
     bin.install "nix-mate"
   end
 
