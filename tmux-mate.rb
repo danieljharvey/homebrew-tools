@@ -6,8 +6,6 @@ class TmuxMate < Formula
 
   depends_on "tmux"
 
-  bottle :unneeded
-
   def install
     bin.install "tmux-mate"
   end
