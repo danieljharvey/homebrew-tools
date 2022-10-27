@@ -1,4 +1,4 @@
-class Ormolu3 < Formula
+class Ormolu < Formula
   desc "Formatter for Haskell source code"
   homepage "https://github.com/tweag/ormolu"
   url "https://github.com/tweag/ormolu/archive/0.3.0.1.tar.gz"
